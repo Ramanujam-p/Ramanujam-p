@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Ramanujam P  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=🚀+Aspiring+Software+Developer;💡+Problem+Solver;🔥+Always+Learning;⚡+Code+%7C+Debug+%7C+Repeat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=🚀+CSE explorer — learning, building, and breaking things to understand them better.;💡+Problem+Solver;🔥+Always+Learning;⚡+Code+%7C+Debug+%7C+Repeat" />
 </p>
 
 ---
