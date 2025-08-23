@@ -30,7 +30,7 @@
 ---
 
 ## 📫 Connect  
-- 📧 [Email Me](mailto:your-email@example.com)  
+- 📧 [Email Me](mailto:pramanujam68@gmail.com)  
 - 🌐 [GitHub](https://github.com/Ramanujam-p)  
 
 ---
