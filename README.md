@@ -4,16 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=🚀+CSE+Explorer;💡+Problem+Solver;🔥+Always+Learning;⚡+Code+%7C+Debug+%7C+Repeat" />
 </p>
 
-
----
-
 ## 🧑‍💻 About Me
 - 🌱 Learning **DSA & Web Dev**
 - 💻 Love solving **algorithmic challenges**
 - 🎯 Dreaming big: *Engineer. Creator. Innovator.*  
-
----
-
 ## 🛠 Languages & Tools  
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) 
