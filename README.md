@@ -57,7 +57,3 @@
 <p align="center">
   ✨ <em>"Coding is not just what I do, it’s how I think."</em> ✨
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
