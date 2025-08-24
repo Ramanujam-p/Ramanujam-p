@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Ramanujam Palvannan
+# 👋 Hey there, I'm Ramanujam P  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6F61&center=true&vCenter=true&width=700&lines=🚀+CSE+Explorer;💡+Problem+Solver;🔥+Always+Learning;⚡+Code+|+Debug+|+Repeat;🌟+Engineer+in+the+Making!" />
@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ramanujam-p&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanujam-p&layout=compact&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanujam-p&layout=compact&theme=radical&hide_border=true" height="180px" />
 </p>
 
 <p align="center">
