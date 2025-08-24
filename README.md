@@ -1,33 +1,63 @@
-# 👋 Hey there! I'm Ramanujam P  
+# 👋 Hey there, I'm Ramanujam P  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=🚀+CSE+Explorer;💡+Problem+Solver;🔥+Always+Learning;⚡+Code+%7C+Debug+%7C+Repeat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6F61&center=true&vCenter=true&width=700&lines=🚀+CSE+Explorer;💡+Problem+Solver;🔥+Always+Learning;⚡+Code+|+Debug+|+Repeat;🌟+Engineer+in+the+Making!" />
 </p>
 
-## 🧑‍💻 About Me
-- 🌱 Learning **DSA & Web Dev**
-- 💻 Love solving **algorithmic challenges**
-- 🎯 Dreaming big: *Engineer. Creator. Innovator.*  
-## 🛠 Languages & Tools  
-![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) 
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+---
+
+## 🧑‍💻 About Me  
+
+✨ Passionate about **DSA, Web Development & Problem Solving**  
+🌱 Currently learning **Next.js & Advanced Algorithms**  
+💡 Love exploring **new technologies & building creative projects**  
+🎯 Dreaming big: *Engineer. Creator. Innovator.*  
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Ramanujam-p&show_icons=true&theme=vision-friendly-dark)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanujam-p&layout=compact&theme=vision-friendly-dark)  
+## 🛠️ Tech Toolkit  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,nodejs,git,github" />
+</p>
 
 ---
 
-## 📫 Connect  
-- 📧 [Email Me](mailto:pramanujam68@gmail.com)  
-- 🌐 [GitHub](https://github.com/Ramanujam-p)  
+## 📊 GitHub Performance  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramanujam-p&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanujam-p&layout=compact&theme=radical&hide_border=true" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramanujam-p&theme=radical&hide_border=true" height="180px" />
+</p>
 
 ---
-✨ *Coding is not just what I do, it’s how I think.*  
 
+## 🏆 Achievements & Highlights  
+
+- Solved **200+ algorithmic problems** across coding platforms 🧩  
+- Building projects with **modern web technologies** 🌐  
+- Actively contributing & learning through **GitHub** 🛠  
+
+---
+
+## 📫 Connect with Me 💬  
+
+<p align="center">
+  <a href="mailto:pramanujam68@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Ramanujam-p"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ramanujam-p"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  ✨ <em>"Coding is not just what I do, it’s how I think."</em> ✨
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
