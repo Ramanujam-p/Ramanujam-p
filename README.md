@@ -24,16 +24,6 @@ I'm a **Computer Science Enthusiast** with a passion for crafting elegant soluti
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-Watch my contributions slither through the GitHub jungle! 🐍
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ramanujam-p/Ramanujam-p/main/output/snake.svg" alt="Contribution Snake" />
-</p>
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
