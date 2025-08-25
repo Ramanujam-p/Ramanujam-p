@@ -64,9 +64,4 @@ I'm a **Computer Science Enthusiast** with a passion for crafting elegant soluti
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ramanujam-p&style=flat-square&color=00C4FF" alt="profile views" />
 </p>
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Ramanujam-p/Ramanujam-p/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
