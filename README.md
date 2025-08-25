@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=800&color=00C4FF&center=true&vCenter=true&width=800&lines=🔥+Passionate+Coder;💻+Web+Dev+Wizard;🧠+Problem-Solving+Ninja;🌌+Building+the+Future;⚡+Code+%7C+Create+%7C+Conquer" />
-</p>
 
 ---
 
@@ -65,3 +64,9 @@ I'm a **Computer Science Enthusiast** with a passion for crafting elegant soluti
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ramanujam-p&style=flat-square&color=00C4FF" alt="profile views" />
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Ramanujam-p/Ramanujam-p/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
