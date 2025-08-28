@@ -67,10 +67,10 @@ I'm a **Computer Science Enthusiast** with a passion for crafting elegant soluti
 ## 🐍 GitHub Contributions Snake Game
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ramanujam-p/Ramanujam-p/blob/output/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ramanujam-p/Ramanujam-p/blob/output/dist/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Ramanujam-p/Ramanujam-p/blob/output/dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ramanujam-p/Ramanujam-p/output/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ramanujam-p/Ramanujam-p/output/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ramanujam-p/Ramanujam-p/output/dist/github-snake.svg" />
 </picture>
 
-![GitHub Snake](https://github.com/Ramanujam-p/Ramanujam-p/blob/output/dist/ocean.gif)
+![GitHub Snake](https://raw.githubusercontent.com/Ramanujam-p/Ramanujam-p/output/dist/ocean.gif)
 
