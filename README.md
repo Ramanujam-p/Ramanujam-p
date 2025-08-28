@@ -64,4 +64,16 @@ I'm a **Computer Science Enthusiast** with a passion for crafting elegant soluti
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ramanujam-p&style=flat-square&color=00C4FF" alt="profile views" />
 </p>
+## 🐍 My GitHub Contributions Snake Game
+
+Watch the snake "eat" my GitHub contributions in this cool animation! This is generated automatically using GitHub Actions.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ramanujam-p/Ramanujam-p/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ramanujam-p/Ramanujam-p/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Ramanujam-p/Ramanujam-p/blob/output/github-snake.svg" />
+</picture>
+
+![GitHub Snake](https://github.com/Ramanujam-p/Ramanujam-p/blob/output/ocean.gif)
+
 
