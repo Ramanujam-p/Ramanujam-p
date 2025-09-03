@@ -1,12 +1,14 @@
-# 👋 Welcome to Ramanujam P's GitHub Universe 🚀
+# 👋 Welcome to Ramanujam P's GitHub Universe 🚀  
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=800&color=00C4FF&center=true&vCenter=true&width=800&lines=🔥+Passionate+Coder;💻+Web+Dev+Wizard;🧠+Problem-Solving+Ninja;🌌+Building+the+Future;⚡+Code+%7C+Create+%7C+Conquer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=800&color=00C4FF&center=true&vCenter=true&width=850&lines=🔥+Passionate+Coder;💻+Web+Dev+Wizard;🧠+Problem-Solving+Ninja;🌌+Building+the+Future;⚡+Code+%7C+Create+%7C+Conquer" />
 </p>
 
 ---
 
 ## 🌟 About Me
-I'm a **Computer Science Enthusiast** with a passion for crafting elegant solutions through code. My journey is fueled by curiosity, creativity, and a relentless drive to learn and innovate.
+I'm a **Computer Science Enthusiast** with a passion for crafting elegant solutions through code.  
+Driven by curiosity and creativity, I constantly push myself to learn, innovate, and build impactful projects.  
 
 - 🔍 **Exploring:** Data Structures, Algorithms, and Web Development  
 - 🌱 **Learning:** Next.js, System Design, and Advanced Algorithms  
@@ -22,23 +24,28 @@ I'm a **Computer Science Enthusiast** with a passion for crafting elegant soluti
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramanujam-p&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanujam-p&layout=compact&theme=dracula&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramanujam-p&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanujam-p&layout=compact&theme=radical&hide_border=true" height="170px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramanujam-p&theme=dracula&hide_border=true" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramanujam-p&theme=radical&hide_border=true" height="170px" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramanujam-p&theme=radical" height="200px" />
 </p>
 
 ---
 
 ## 🏅 Milestones & Achievements
-- 🧩 Solved **250+ algorithmic challenges** across platforms like LeetCode, HackerRank, and Codeforces  
-- 🌐 Developed **full-stack web applications** using React, Node.js, and Express  
+- 🧩 Solved **250+ algorithmic challenges** across LeetCode, HackerRank, and Codeforces  
+- 🌐 Developed **full-stack web applications** with React, Node.js, and Express  
 - 🛠 Contributed to **open-source projects** and maintained consistent GitHub activity  
-- 🚀 Leading personal projects that blend creativity with cutting-edge tech  
+- 🚀 Leading projects that merge creativity with cutting-edge technology  
 
 ---
 
