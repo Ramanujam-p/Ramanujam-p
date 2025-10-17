@@ -21,7 +21,7 @@ I'm a **Computer Science Enthusiast** and an aspiring **Software Engineer** with
 ## ⚙️ My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,html5,css3,js,react,nodejs,express,git,github,figma,vscode,canva,github" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,html,css,js,react,nodejs,express,git,github,figma,vscode" />
 </p>
 
 ---
