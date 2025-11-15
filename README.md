@@ -61,7 +61,7 @@ I'm a **Computer Science Enthusiast** and an aspiring **Software Engineer** with
   <a href="https://github.com/Ramanujam-p">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ramanujam-p">
+  <a href="https://www.linkedin.com/in/ramanujam-p-42576330b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
