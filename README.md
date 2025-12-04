@@ -29,43 +29,16 @@ Fueled by curiosity, I love turning complex problems into elegant, efficient sol
 ## 📊 GitHub Universe
 
 <p align="center">
-  <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Ramanujam-p&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanujam-p&layout=compact&theme=radical&hide_border=true" height="170px" />
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramanujam-p&theme=radical&hide_border=true" height="170px" />
 </p>
 
 <p align="center">
-  <!-- Profile Summary -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramanujam-p&theme=radical" height="200px" />
-</p>
-
-<p align="center">
-  <!-- Fallback Links in case images fail -->
-  🔗 [View Stats Directly](https://github-readme-stats.vercel.app/api?username=Ramanujam-p&show_icons=true&theme=radical) • 
-  🔗 [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanujam-p&layout=compact&theme=radical) • 
-  🔗 [Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ramanujam-p&theme=radical)
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ramanujam-p&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Ramanujam-p/Project-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ramanujam-p&repo=Project-1&theme=radical" /></a>
-  <a href="https://github.com/Ramanujam-p/Project-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ramanujam-p&repo=Project-2&theme=radical" /></a>
 </p>
 
 ---
@@ -99,14 +72,6 @@ Fueled by curiosity, I love turning complex problems into elegant, efficient sol
   <img src="https://komarev.com/ghpvc/?username=Ramanujam-p&style=for-the-badge&color=F8A43E" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Ramanujam-p?style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/github/stars/Ramanujam-p?style=for-the-badge&color=yellow" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramanujam-p&theme=radical&hide_border=true" />
 </p>
 
 ---
