@@ -1,5 +1,4 @@
----
-## 👋 Ramanujam P's Coding Odyssey
+# 👋 Ramanujam P's Coding Odyssey
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=800&color=F8A43E&center=true&vCenter=true&width=850&lines=Crafting+Digital+Worlds;Web+Development+Maestro;Solving+Puzzles+with+Passion;Building+the+Future;Code+%7C+Create+%7C+Conquer" />
@@ -9,73 +8,70 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science Enthusiast** and an aspiring **Software Engineer** with a deep love for building meaningful projects. My journey is fueled by a relentless curiosity and a drive to turn complex problems into elegant, efficient solutions.
+I'm a **Computer Science Enthusiast** and aspiring **Software Engineer** with a passion for building meaningful projects.  
+Fueled by curiosity, I love turning complex problems into elegant, efficient solutions.
 
-- 🔍 **Currently Diving Into:** Data Structures, Algorithms, and the intricate world of Web Development
-- 🌱 **Honing My Skills In:** Next.js, System Design, and Advanced Algorithms
-- 🛠 **Actively Building:** Scalable, high-performance applications with modern tech stacks
-- 🎯 **My North Star:** To innovate and grow into a world-class engineer
-
----
-
-## ⚙️ My Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,html,css,js,react,nodejs,express,git,github,figma,vscode" />
-</p>
+- 🔍 **Exploring:** Data Structures, Algorithms, and Web Development  
+- 🌱 **Learning:** Next.js, System Design, Advanced Algorithms  
+- 🛠 **Building:** Scalable, high-performance applications with modern tech stacks  
+- 🎯 **Goal:** To innovate and grow into a world-class engineer  
 
 ---
 
-## 📊 My GitHub Universe
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramanujam-p&show_icons=true&theme=buefy&hide_border=true&count_private=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanujam-p&layout=compact&theme=buefy&hide_border=true" height="170px" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,html,css,js,react,nodejs,express,nextjs,git,github,figma,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Universe
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramanujam-p&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanujam-p&layout=compact&theme=radical&hide_border=true" height="170px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramanujam-p&theme=buefy&hide_border=true" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramanujam-p&theme=radical&hide_border=true" height="170px" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramanujam-p&theme=buefy" height="200px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramanujam-p&theme=radical" height="200px" />
 </p>
 
 ---
 
 ## 🏅 Achievements & Milestones
 
-- 🧩 Conquered **250+ algorithmic challenges** across top platforms like LeetCode and HackerRank
-- 🌐 Engineered impactful **full-stack web applications** using React, Node.js, and Express
-- 🛠 Championed **open-source contributions**, helping to build and maintain collaborative projects
-- 🚀 Pioneering projects that blend innovative design with robust technology
+- 🧩 Solved **250+ algorithmic challenges** on LeetCode & HackerRank  
+- 🌐 Built impactful **full-stack web apps** with React, Node.js, Express  
+- 🛠 Contributed to **open-source projects**, fostering collaboration  
+- 🚀 Created projects blending **innovative design** with **robust technology**  
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:pramanujam68@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ramanujam-p">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ramanujam-p-42576330b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="mailto:pramanujam68@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Ramanujam-p"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ramanujam-p-42576330b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-## ✨ My Coding Philosophy
+## ✨ Coding Philosophy
 
 <p align="center">
   <em>"Every line of code is a brushstroke on the canvas of innovation."</em>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ramanujam-p&style=flat-square&color=F8A43E" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ramanujam-p&style=for-the-badge&color=F8A43E" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Ramanujam-p?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/Ramanujam-p?style=for-the-badge&color=yellow" />
 </p>
 
 ---
