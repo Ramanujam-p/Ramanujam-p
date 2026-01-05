@@ -27,13 +27,21 @@ Fueled by curiosity, I love turning complex problems into elegant, efficient sol
 ---
 
 ## 📊 GitHub Universe
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramanujam-p&theme=radical&hide_border=true" height="170px" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Ramanujam-p&theme=radical&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramanujam-p&theme=radical" height="200px" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramanujam-p&theme=radical"
+    height="200"
+  />
 </p>
+
 
 ---
 
