@@ -26,25 +26,6 @@ I'm a **Computer Science Enthusiast** and aspiring **Software Engineer** with a 
 ---
 
 ## 📊 GitHub Universe
-
-<!-- ✅ STREAK STATS (FIXED HOST) -->
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Ramanujam-p&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-    height="170"
-    alt="GitHub Streak Stats"
-  />
-</p>
-
-<!-- ✅ GITHUB STATS (MOST STABLE ENDPOINT) -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ramanujam-p&show_icons=true&theme=radical&hide_border=true&count_private=true"
-    height="170"
-    alt="GitHub Stats"
-  />
-</p>
-
 <!-- ✅ PROFILE SUMMARY CARD -->
 <p align="center">
   <img
