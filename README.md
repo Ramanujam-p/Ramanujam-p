@@ -1,49 +1,51 @@
 # 👋 Ramanujam P's Coding Odyssey
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=800&color=F8A43E&center=true&vCenter=true&width=850&lines=Crafting+Digital+Worlds;Web+Development+Maestro;Solving+Puzzles+with+Passion;Building+the+Future;Code+%7C+Create+%7C+Conquer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=800&color=F8A43E&center=true&vCenter=true&width=850&lines=Crafting+Digital+Worlds;Web+Development+Maestro;Solving+Puzzles+with+Passion;Building+the+Future;Code+%7C+Create+%7C+Conquer" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Computer Science Enthusiast** and aspiring **Software Engineer** with a passion for building meaningful projects.  
-Fueled by curiosity, I love turning complex problems into elegant, efficient solutions.
+I'm a **Computer Science Enthusiast** and aspiring **Software Engineer** with a passion for building meaningful projects.
 
-- 🔍 **Exploring:** Data Structures, Algorithms, and Web Development  
-- 🌱 **Learning:** Next.js, System Design, Advanced Algorithms  
-- 🛠 **Building:** Scalable, high-performance applications  
-- 🎯 **Goal:** To grow into a world-class engineer  
+- 🔍 Exploring **DSA & Web Development**
+- 🌱 Learning **Next.js, System Design**
+- 🛠 Building **high-performance applications**
+- 🎯 Goal: **World-class engineer**
 
 ---
 
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,html,css,js,react,nodejs,express,nextjs,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,nextjs,git,github,figma,vscode" />
 </p>
 
 ---
 
 ## 📊 GitHub Universe
 
+<!-- ✅ STREAK STATS (FIXED HOST) -->
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Ramanujam-p&theme=radical&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Ramanujam-p&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
     height="170"
     alt="GitHub Streak Stats"
   />
 </p>
 
+<!-- ✅ GITHUB STATS (MOST STABLE ENDPOINT) -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ramanujam-p&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Ramanujam-p&show_icons=true&theme=radical&hide_border=true&count_private=true"
     height="170"
     alt="GitHub Stats"
   />
 </p>
 
+<!-- ✅ PROFILE SUMMARY CARD -->
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramanujam-p&theme=radical"
@@ -54,12 +56,12 @@ Fueled by curiosity, I love turning complex problems into elegant, efficient sol
 
 ---
 
-## 🏅 Achievements & Milestones
+## 🏅 Achievements
 
-- 🧩 Solved **250+ algorithmic challenges**  
-- 🌐 Built **full-stack web applications**  
-- 🛠 Contributed to **open-source projects**  
-- 🚀 Created projects blending **design + performance**
+- 🧩 Solved **250+ coding problems**
+- 🌐 Built **full-stack projects**
+- 🛠 Open-source contributor
+- 🚀 Design + performance focused
 
 ---
 
@@ -87,8 +89,8 @@ Fueled by curiosity, I love turning complex problems into elegant, efficient sol
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ramanujam-p&style=for-the-badge&color=F8A43E" />
-  <img src="https://img.shields.io/github/followers/Ramanujam-p?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/Ramanujam-p?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/followers/Ramanujam-p?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Ramanujam-p?style=for-the-badge" />
 </p>
 
 ---
@@ -96,9 +98,5 @@ Fueled by curiosity, I love turning complex problems into elegant, efficient sol
 ## 🐍 GitHub Contributions Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ramanujam-p/Ramanujam-p/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ramanujam-p/Ramanujam-p/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Ramanujam-p/Ramanujam-p/output/github-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Ramanujam-p/Ramanujam-p/output/github-snake.svg" />
 </p>
