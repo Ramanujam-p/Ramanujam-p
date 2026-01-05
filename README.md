@@ -13,8 +13,8 @@ Fueled by curiosity, I love turning complex problems into elegant, efficient sol
 
 - 🔍 **Exploring:** Data Structures, Algorithms, and Web Development  
 - 🌱 **Learning:** Next.js, System Design, Advanced Algorithms  
-- 🛠 **Building:** Scalable, high-performance applications with modern tech stacks  
-- 🎯 **Goal:** To innovate and grow into a world-class engineer  
+- 🛠 **Building:** Scalable, high-performance applications  
+- 🎯 **Goal:** To grow into a world-class engineer  
 
 ---
 
@@ -29,30 +29,52 @@ Fueled by curiosity, I love turning complex problems into elegant, efficient sol
 ## 📊 GitHub Universe
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramanujam-p&theme=radical"
-    height="200"
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Ramanujam-p&theme=radical&hide_border=true"
+    height="170"
+    alt="GitHub Streak Stats"
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ramanujam-p&show_icons=true&theme=radical&hide_border=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramanujam-p&theme=radical"
+    height="200"
+    alt="Profile Summary"
+  />
+</p>
 
 ---
 
 ## 🏅 Achievements & Milestones
 
-- 🧩 Solved **250+ algorithmic challenges** on LeetCode & HackerRank  
-- 🌐 Built impactful **full-stack web apps** with React, Node.js, Express  
-- 🛠 Contributed to **open-source projects**, fostering collaboration  
-- 🚀 Created projects blending **innovative design** with **robust technology**  
+- 🧩 Solved **250+ algorithmic challenges**  
+- 🌐 Built **full-stack web applications**  
+- 🛠 Contributed to **open-source projects**  
+- 🚀 Created projects blending **design + performance**
 
 ---
 
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:pramanujam68@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Ramanujam-p"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ramanujam-p-42576330b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pramanujam68@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ramanujam-p">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ramanujam-p-42576330b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -64,7 +86,7 @@ Fueled by curiosity, I love turning complex problems into elegant, efficient sol
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ramanujam-p&style=for-the-badge&color=F8A43E" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ramanujam-p&style=for-the-badge&color=F8A43E" />
   <img src="https://img.shields.io/github/followers/Ramanujam-p?style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/github/stars/Ramanujam-p?style=for-the-badge&color=yellow" />
 </p>
