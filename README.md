@@ -14,8 +14,8 @@
 
 - 🔍 Strong in Problem Solving & Algorithms
 - 🌱 Currently learning Next.js, Backend Scaling, System Design
-- 🛠 Love building high-performance, real-world projects
-- 🚀 Growth-driven & consistency-focused
+- 🛠 Building high-performance applications
+- 🚀 Consistency-focused developer
 
 ---
 
@@ -27,30 +27,7 @@
 
 ---
 
-## 📊 GitHub Universe
-
-### 🔹 Profile Overview
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramanujam-p&theme=radical" />
-</p>
-
----
-
-## 🔥 GitHub Streak (Current + Max)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramanujam-p&theme=radical&hide_border=true" />
-</p>
-
-✔️ Current streak  
-✔️ Longest streak  
-✔️ Total contributions  
-
-> ⚠️ If it doesn’t show instantly, refresh after 1–2 minutes (GitHub cache)
-
----
-
-## 📈 GitHub Stats (Year-Wise)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ramanujam-p&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -73,9 +50,9 @@
 ## 🏅 Achievements
 
 - 🧩 Solved 250+ DSA problems
-- 🌐 Built Full-Stack Web Applications
+- 🌐 Built Full-Stack Projects
 - 🛠 Open-Source Contributor
-- ⚡ Clean code & performance focused
+- ⚡ Performance-first mindset
 
 ---
 
@@ -98,14 +75,6 @@
 
 ---
 
-## ✨ Coding Philosophy
-
-<p align="center">
-  <em>“Consistency beats intensity.”</em>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -114,10 +83,8 @@
 
 ---
 
-## 👀 Profile Insights
+## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ramanujam-p&style=for-the-badge&color=F8A43E"/>
-  <img src="https://img.shields.io/github/followers/Ramanujam-p?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/Ramanujam-p?style=for-the-badge"/>
 </p>
