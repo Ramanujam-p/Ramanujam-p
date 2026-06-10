@@ -26,13 +26,6 @@
 </p>
 
 ---
-## 🗓️ Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramanujam-p&theme=react-dark&hide_border=true" />
-</p>
-
----
 
 ## 🏅 Achievements
 
